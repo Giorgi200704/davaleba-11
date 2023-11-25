@@ -1,0 +1,84 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+header {
+    display: flex;
+    padding-top: 57px;
+    padding-left: 144px;
+    flex-direction: column;
+    width: 371px;
+}
+header > a > h6 {
+    color: #5863E3;
+    font-family: Helvetica;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+header >h1 {
+    color: #000;
+    font-family: Helvetica;
+    font-size: 49px;
+    width: 371px;
+}
+.reg {
+    display: flex;
+    padding: 57px 150px 51px 144px;
+}
+#com {
+  width: 756px;
+  height: 298px;
+  flex-shrink: 0;
+  border: 2px solid rgba(212, 211, 211, 0.3);
+  background: #f8f8f8;
+  padding-top: 23px;
+  padding-left: 21px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  color: #99999a;
+}
+form > input {
+  display: flex;
+  flex-direction: column;
+  width: 370px;
+  height: 59px;
+  border: 2px solid rgba(212, 211, 211, 0.3);
+  background: #f8f8f8;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  padding-top: 21px;
+  padding-left: 19px;
+  padding-bottom: 22px;
+  color: #99999a;
+  font-size: 14px;
+  font-weight: 700;
+}
+form > button {
+  width: 370px;
+  height: 59px;
+  background-color: #5968f4;
+  color: #fff;
+  border: none;
+  margin-left: 20px;
+}
+
+p {
+    color: #99999A;
+    font-family: Helvetica;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+h3 {
+    color: #4E4D54;
+    font-family: Helvetica;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
