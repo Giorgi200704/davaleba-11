@@ -1,79 +1,79 @@
 @media screen and (max-width: 768px) {
-    .top1 {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      margin-right: 130px;
-    }
-    .register > #com {
-      width: 450px;
-      margin-left: 20px;
-    }
-    .register {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-    }
-    form {
-      margin-top: 20px;
-    }
-    .conteiner2 {
-      align-items: center;
-      flex-direction: column;
-      gap: 120px;
-      margin-left: 110px;
-    }
-    .mid1 {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      margin-right: 130px;
-      height: 122px;
-    }
-    .conteiner3 > .texts {
-      display: block;
-      background-color: #000;
-    }
-    .conteiner3 > .texts > .zwtta {
-    
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      margin-left: 0px;
-    }
-    .conteiner3 > .texts > .links {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      margin-left: 0;
-    }
-    .conteiner3 > .texts > .privacy {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      margin-left: 0;
-    }
-    .conteiner3 > .texts > .contact {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      margin-left: 0;
-    }
-    .conteiner3 > .texts > .links > ul > li {
-      display: flex;
-      justify-content: center;
-    }
-    .conteiner3 > .texts > .privacy > ul > li {
-      display: flex;
-      justify-content: center;
-    }
-    .photos {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      gap: 20px;
-    }
-    .zwtta>h2{
-      margin-top: 30px;
-    }
-    }
+.top1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 130px;
+}
+.register > #com {
+  width: 450px;
+  margin-left: 20px;
+}
+.register {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+form {
+  margin-top: 20px;
+}
+.conteiner2 {
+  align-items: center;
+  flex-direction: column;
+  gap: 120px;
+  margin-left: 110px;
+}
+.mid1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 130px;
+  height: 122px;
+}
+.conteiner3 > .texts {
+  display: block;
+  background-color: #000;
+}
+.conteiner3 > .texts > .zwtta {
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 0px;
+}
+.conteiner3 > .texts > .links {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 0;
+}
+.conteiner3 > .texts > .privacy {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 0;
+}
+.conteiner3 > .texts > .contact {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 0;
+}
+.conteiner3 > .texts > .links > ul > li {
+  display: flex;
+  justify-content: center;
+}
+.conteiner3 > .texts > .privacy > ul > li {
+  display: flex;
+  justify-content: center;
+}
+.photos {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+.zwtta>h2{
+  margin-top: 30px;
+}
+}
